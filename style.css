@@ -4,3 +4,8 @@ table{
     padding: 10px;
     text-align: left;
 }
+
+.tabela, td{
+    margin-left: 45%;
+    padding: 10px;
+}
