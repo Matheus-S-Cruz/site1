@@ -1,11 +1,21 @@
 table{ 
-    font-size: 30px;
+    font-size: 50px;
     border-collapse: collapse;
     padding: 10px;
     text-align: left;
 }
 
 .tabela, td{
-    margin-left: 45%;
+    background-color: rgb(0, 0, 0)45, 192, 192);
+    width: 300px;
+    height: 80px;
+    margin: auto;
     padding: 10px;
+    cursor: pointer;
+    margin-top: 80px;
+    text-align: center;
+}
+
+td:hover{
+    background-color: lightgray;
 }
